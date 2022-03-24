@@ -82,6 +82,9 @@ a {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+.attribution a:hover {
+  color: hsl(150, 100%, 66%);
+}
 .attribution a:active {
   color: hsl(150, 100%, 66%);
 }
